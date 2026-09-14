@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Food Facts Github page
+title: Open Food Facts GitHub page
 ---
 
 <picture>
@@ -27,7 +27,7 @@ Open Food Facts is a database of food products with ingredients, allergens, nutr
 ### Made by everyone
 
 Open Food Facts is a non-profit association of volunteers.
-25.000+ contributors like you have added 1.7 million + products from 150 countries using our Android, iPhone or Windows Phone app or their camera to scan barcodes and upload pictures of products and their labels.
+25.000+ contributors like you have added 4 million + products from 150 countries using our Android or iPhone app or their camera to scan barcodes and upload pictures of products and their labels.
 
 ### For everyone
 
@@ -48,22 +48,18 @@ Or if you build an app, use the [API documentation for Open Food Facts](//openf
 
 We also have documentation for various projects:
 
-* [The mobile App smoothie](//openfoodfacts.github.io/smooth-app)
+* [our official mobile app](//openfoodfacts.github.io/smooth-app)
 * [ProductOpener, the Open Food Facts backend (website)](//openfoodfacts.github.io/openfoodfacts-server/)
 * [Open Prices, tracking prices](//openfoodfacts.github.io/open-prices)
-* [Robotoff the AI/Machine Learning helper](//openfoodfacts.github.io/robotoff)
-* [Our infrastructuer documentation](//openfoodfacts.github.io/openfoodfacts-infrastructure)
-* [Search-a-licious the search engine](//openfoodfacts.github.io/search-a-licious)
+* [Robotoff, our AI/Machine Learning helper](//openfoodfacts.github.io/robotoff)
+* [Documentation about our infrastructure](//openfoodfacts.github.io/openfoodfacts-infrastructure)
+* [Search-a-licious, our next-gen search engine](//openfoodfacts.github.io/search-a-licious)
 * [Facets knowledge panels, adding information on facets](//openfoodfacts.github.io/facets-knowledge-panels)
 
-Some SDK documentation
+SDK documentation
 * [Dart SDK](//openfoodfacts.github.io/openfoodfacts-dart)
 * [Python SDK](//openfoodfacts.github.io/openfoodfacts-python)
-* [Node JS SDK](//openfoodfacts.github.io/openfoodfacts-nodejs)
-
-<!-- 
-* [old android app](//openfoodfacts.github.io/openfoodfacts-androidapp) 
--->
+* [JavaScript SDK](//openfoodfacts.github.io/openfoodfacts-js)
 
 ## How can I help?
 
